@@ -1,0 +1,48 @@
+{
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-999550fa.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-cfe45b98.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/Faishal.png": {
+    "file": "assets/Faishal-06e72f7a.png",
+    "src": "resources/images/Faishal.png"
+  },
+  "resources/images/bg.png": {
+    "file": "assets/bg-7fdec9ac.png",
+    "src": "resources/images/bg.png"
+  },
+  "resources/images/bg1.png": {
+    "file": "assets/bg1-6841ffd7.png",
+    "src": "resources/images/bg1.png"
+  },
+  "resources/images/bg2.png": {
+    "file": "assets/bg2-73b5fe2c.png",
+    "src": "resources/images/bg2.png"
+  },
+  "resources/images/gudang.png": {
+    "file": "assets/gudang-ccc369d6.png",
+    "src": "resources/images/gudang.png"
+  },
+  "resources/images/gudangbarang.png": {
+    "file": "assets/gudangbarang-f9eb79b0.png",
+    "src": "resources/images/gudangbarang.png"
+  },
+  "resources/images/laravel.png": {
+    "file": "assets/laravel-1937c3ce.png",
+    "src": "resources/images/laravel.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-afb84b5f.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-e7218b28.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
